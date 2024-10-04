@@ -1,5 +1,3 @@
-![image 2](https://github.com/user-attachments/assets/b76ef993-1389-4d31-a6d2-2db19610e879)# flutter_product_app
-
 # Flutter Application: Product List and Details
 This is a basic Flutter application that displays a list of products and their respective details. The app highlights the usage of both full and shallow widget trees and follows a clean, scalable project structure.
 
@@ -30,8 +28,6 @@ To get a local copy up and running, follow these simple steps.
 ![image 1](https://github.com/user-attachments/assets/5d4e3569-5f34-43b5-adfc-4b158a228a24)
 ![image 2](https://github.com/user-attachments/assets/2c968cf1-de90-438d-bb2c-de64a368e800)
 
-
- 
 
 # Prerequisites
 Ensure you have Flutter installed on your system. You can check by running:
