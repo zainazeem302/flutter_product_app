@@ -26,6 +26,10 @@ Full Widget Tree: Implemented in the Product Detail Screen, where all the produc
 Getting Started
 To get a local copy up and running, follow these simple steps.
 
+# App Screenshot
+
+![Flutter App](https://github.com/user-attachments/assets/0c9c1e96-8c18-4876-903d-49b4b2dd1b42)
+
 # Prerequisites
 Ensure you have Flutter installed on your system. You can check by running:
 ![flutter](https://github.com/user-attachments/assets/d7e1082e-cfe0-48d1-ac0b-5e07fed34bcc)
