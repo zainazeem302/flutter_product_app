@@ -23,3 +23,10 @@ Product Tile: A reusable widget representing an individual product in the list. 
 Shallow Widget Tree: Utilized in the Product List Screen, where complex widgets are divided into smaller components, such as the ProductTile, ensuring a more maintainable and scalable structure.
 
 Full Widget Tree: Implemented in the Product Detail Screen, where all the product details (image, title, description, and price) are arranged within a single Column widget.
+Getting Started
+To get a local copy up and running, follow these simple steps.
+
+# Prerequisites
+Ensure you have Flutter installed on your system. You can check by running:
+![flutter](https://github.com/user-attachments/assets/d7e1082e-cfe0-48d1-ac0b-5e07fed34bcc)
+
